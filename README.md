@@ -109,7 +109,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
   
  
-<a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G" target="_blank">
+<a href="https://whatsapp.com/channel/0029VarN0780Qeatn8cklB0E" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
 
