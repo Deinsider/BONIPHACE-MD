@@ -46,13 +46,7 @@
 
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-- <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="SERVER 01" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 01-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-- <a href="https://anthony-boniphace.onrender.com"><img title="SERVER 02" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://boniphacetech.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
  
 1. If You Don't Have An Account On Heroku**
