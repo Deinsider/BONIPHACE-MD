@@ -46,7 +46,7 @@
 
 </p>
 
-- <a href="https://boniphacetech.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/𝑆𝐸𝑅𝑉𝐸𝑅 02-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://boniphacetech.onrender.com"><img title="SESSION SITE" src="https://img.shields.io/badge/SESSION SITE-h?color=pink&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
  
 1. If You Don't Have An Account On Heroku**
