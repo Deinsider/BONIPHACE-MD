@@ -67,57 +67,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-</a>
-</div>
-
-[![Davide's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davevad93&theme=github-compact&bg_color=000000&line=009A22&point=98FB98&color=00FF2B&title_color=00FF2B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-**OWNER**
-<p align="centre">
-  <a href="https://wa.me/message/HVPSEJDVDNAEG1">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-
-
-**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
-<p align="centre">
-  <a href="https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G">
-    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
-
-   ###
-
-CONTACT DEVELOPER ON WHATSAPP 
-
-<a href="https://wa.me/255794373476" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-
-  
- 
-<a href="https://whatsapp.com/channel/0029VarN0780Qeatn8cklB0E" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ BONIPHACE_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
-
-## License
-
-The WhatsApp Bot BONIPHACE-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-🌟 THANK YOU FOR CHOOSING BONIPHACE-MD 🌟
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-## DEVELOPERS :
-
-- [**BONIPHACE TECH**](https://github.com/boniphace478)
-- [**Developers YT**](https://youtube.com/@anthonyboniphace?si=86VHGM7BZ4Q_OQYO)
-- [**HANSTZ TECH**](https://github.com/HANSTZ3)
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- 
-★THANKS BE TO GOG 🙏. ©
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-     
 
