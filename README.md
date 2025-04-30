@@ -56,11 +56,10 @@
 - <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-### 2.*If You Have Account On Heroku*
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=𓆏+𝑆𝐴𝐹𝐸+𝑇𝑂+𝐻𝐸𝑅𝑂𝐾𝑈+𓆏)](https://git.io/typing-svg)
+**2. If You Have Account On Heroku**
 
-</p>
+   ***[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://boniphace.vercel.app/)***
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
