@@ -12,23 +12,7 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-  </h1> 
-<p align="center">l introduce <b>BONIPHACE-MD</b>, a powerful simple WhatsApp bot </p>
-
-</p>
-  <p align="center">
-<a href="https://github.com/boniphace478/followers"><img title="Followers" src="https://img.shields.io/github/followers/boniphace478?color=blue&style=flat-square"></a>
-<a href="https://github.com/boniphace478/BONIPHACE-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/boniphace478/boniphace-md?&style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/boniphace478/boniphace-md?style=social"></a>
-<a href="https://github.com/boniphace478/boniphace-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/boniphace478/boniphace-md?label=Watching&style=social"></a>
-<a href="https://github.com/boniphace478/BONIPHACE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/boniphace478/BONIPHACE-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/boniphace478/BONIPHACE-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{boniphace478}/count.svg" alt="Boniphace-md :: Visitor's Count"/></p>
-
----
+-
 
 
  
